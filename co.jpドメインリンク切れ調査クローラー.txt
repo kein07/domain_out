@@ -1,0 +1,10 @@
+cojp-domain-crawler/
+├── .github/
+│   └── workflows/
+│       └── crawler.yml
+├── all_industry_urls.py
+├── crawler.py
+├── test_single_domain.py
+├── list_industries.py
+├── requirements.txt
+└── README.md
