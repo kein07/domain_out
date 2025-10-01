@@ -1,0 +1,3 @@
+# このファイルは、業界一覧ページから各業界の詳細ページURLを取得するためのものです。
+# 実際のコードはここに記述します。
+print("all_industry_urls.py: Not implemented yet.")
