@@ -1,0 +1,17 @@
+art.nikkei-ps.co.jp
+channel.nikkei.co.jp
+events.nikkei.co.jp
+gooday.nikkei.co.jp
+natgeo.nikkeibp.co.jp
+needs.nikkei.co.jp
+nfm.nikkeibp.co.jp
+nkbb.nikkei.co.jp
+nvs.nikkei.co.jp
+online.nikkei-cnbc.co.jp
+project.nikkeibp.co.jp
+school.nikkei.co.jp
+shopping.nikkei.co.jp
+smartwork.nikkei.co.jp
+t21.nikkei.co.jp
+txbiz.tv-tokyo.co.jp
+www.nikkei.co.jp
