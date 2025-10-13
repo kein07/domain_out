@@ -9,8 +9,11 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # この行を追加します
+
 
       - name: Set up Python
         uses: actions/setup-python@v4
