@@ -87,7 +87,6 @@ www.chibanippo.co.jp
 www.chitetsu.co.jp
 www.chunichi.co.jp
 www.costco.co.jp
-www.daicolo.co.jp
 www.deandeluca.co.jp
 www.decn.co.jp
 www.denjiro.co.jp
@@ -144,7 +143,6 @@ www.kisuki-milk.co.jp
 www.kitamuramiso.co.jp
 www.kobe-np.co.jp
 www.kokuyo-furniture.co.jp
-www.komatsuza.co.jp
 www.kouri-dls.co.jp
 www.kubota.co.jp
 www.laq.co.jp
